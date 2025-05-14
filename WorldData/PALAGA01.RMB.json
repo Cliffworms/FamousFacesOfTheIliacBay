@@ -7603,7 +7603,7 @@
                             "XPos": 628,
                             "YPos": -264,
                             "ZPos": -372,
-                            "TextureArchive": 1010,
+                            "TextureArchive": 10010,
                             "TextureRecord": 44,
                             "FactionID": 0,
                             "Flags": 0
@@ -7633,7 +7633,7 @@
                             "XPos": 516,
                             "YPos": -422,
                             "ZPos": -266,
-                            "TextureArchive": 1010,
+                            "TextureArchive": 10010,
                             "TextureRecord": 50,
                             "FactionID": 0,
                             "Flags": 0
@@ -13772,7 +13772,7 @@
                             "XPos": -150,
                             "YPos": -1,
                             "ZPos": -344,
-                            "TextureArchive": 1025,
+                            "TextureArchive": 10025,
                             "TextureRecord": 4,
                             "FactionID": 0,
                             "Flags": 0
@@ -13782,7 +13782,7 @@
                             "XPos": 156,
                             "YPos": -1,
                             "ZPos": -344,
-                            "TextureArchive": 1025,
+                            "TextureArchive": 10025,
                             "TextureRecord": 4,
                             "FactionID": 0,
                             "Flags": 0
@@ -13922,7 +13922,7 @@
                             "XPos": -346,
                             "YPos": -129,
                             "ZPos": -229,
-                            "TextureArchive": 1025,
+                            "TextureArchive": 10025,
                             "TextureRecord": 4,
                             "FactionID": 0,
                             "Flags": 0
@@ -13932,7 +13932,7 @@
                             "XPos": -346,
                             "YPos": -129,
                             "ZPos": -68,
-                            "TextureArchive": 1025,
+                            "TextureArchive": 10025,
                             "TextureRecord": 4,
                             "FactionID": 0,
                             "Flags": 0
@@ -14362,7 +14362,7 @@
                             "XPos": -167,
                             "YPos": -32,
                             "ZPos": 127,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 11,
                             "FactionID": 0,
                             "Flags": 0
@@ -14372,7 +14372,7 @@
                             "XPos": -245,
                             "YPos": -33,
                             "ZPos": 91,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14382,7 +14382,7 @@
                             "XPos": -195,
                             "YPos": -33,
                             "ZPos": 89,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14392,7 +14392,7 @@
                             "XPos": -125,
                             "YPos": -33,
                             "ZPos": 91,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14402,7 +14402,7 @@
                             "XPos": -83,
                             "YPos": -33,
                             "ZPos": 89,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14412,7 +14412,7 @@
                             "XPos": 0,
                             "YPos": -33,
                             "ZPos": 92,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14422,7 +14422,7 @@
                             "XPos": 45,
                             "YPos": -33,
                             "ZPos": 91,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14432,7 +14432,7 @@
                             "XPos": 0,
                             "YPos": -33,
                             "ZPos": 165,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14442,7 +14442,7 @@
                             "XPos": 45,
                             "YPos": -33,
                             "ZPos": 165,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14452,7 +14452,7 @@
                             "XPos": -127,
                             "YPos": -33,
                             "ZPos": 165,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14462,7 +14462,7 @@
                             "XPos": -82,
                             "YPos": -33,
                             "ZPos": 165,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14472,7 +14472,7 @@
                             "XPos": -248,
                             "YPos": -33,
                             "ZPos": 166,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14482,7 +14482,7 @@
                             "XPos": -199,
                             "YPos": -33,
                             "ZPos": 165,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14492,7 +14492,7 @@
                             "XPos": -321,
                             "YPos": -33,
                             "ZPos": 148,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14502,7 +14502,7 @@
                             "XPos": -321,
                             "YPos": -33,
                             "ZPos": 99,
-                            "TextureArchive": 1021,
+                            "TextureArchive": 10021,
                             "TextureRecord": 13,
                             "FactionID": 0,
                             "Flags": 0
@@ -14602,7 +14602,7 @@
                             "XPos": 323,
                             "YPos": -1,
                             "ZPos": 358,
-                            "TextureArchive": 1025,
+                            "TextureArchive": 10025,
                             "TextureRecord": 4,
                             "FactionID": 0,
                             "Flags": 0
@@ -14612,7 +14612,7 @@
                             "XPos": -573,
                             "YPos": -1,
                             "ZPos": 358,
-                            "TextureArchive": 1025,
+                            "TextureArchive": 10025,
                             "TextureRecord": 4,
                             "FactionID": 0,
                             "Flags": 0

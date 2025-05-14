@@ -11,9 +11,7 @@
             "BlockPositions": null,
             "BuildingDataList": null,
             "BlockDataSizes": null,
-            "GroundData": {
-
-            },
+            "GroundData": {},
             "AutoMapData": null,
             "Name": null,
             "OtherNames": null
@@ -2944,7 +2942,7 @@
                         "Resources": {
                             "FlatResource": {
                                 "Position": 18000,
-                                "TextureArchive": 1020,
+                                "TextureArchive": 10020,
                                 "TextureRecord": 1,
                                 "Flags": 50,
                                 "Magnitude": 47,
