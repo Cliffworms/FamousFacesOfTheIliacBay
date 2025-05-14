@@ -608,7 +608,7 @@
             "Name": "daggerfall expanded textures",
             "IsOptional": false,
             "IsPeer": true,
-            "Version": "0.6.3"
+            "Version": "1.0.0"
         },
         {
             "Name": "new paintings",
