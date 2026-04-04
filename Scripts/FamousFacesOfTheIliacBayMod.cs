@@ -86,8 +86,8 @@ namespace FamousFacesOfTheIliacBay
             // Add DET archives too, but make sure they're not already there
 
             // Named/Unique NPCs
-            if (!RDBLayout.NPCFlatArchives.Contains(1020))
-                RDBLayout.NPCFlatArchives.Add(1020);
+            if (!RDBLayout.NPCFlatArchives.Contains(10020))
+                RDBLayout.NPCFlatArchives.Add(10020);
 
             mod.IsReady = true;
             Debug.Log("Finished mod init: FamousFacesOfTheIliacBay");
