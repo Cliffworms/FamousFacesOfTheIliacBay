@@ -1,6 +1,6 @@
 {
     "Position": 50000136,
-    "Index": 0,
+    "Index": 5065,
     "Name": "WALLAA00Dakfron.RMB",
     "Type": "Rmb",
     "RmbBlock": {
@@ -7899,8 +7899,8 @@
                             "XPos": -218,
                             "YPos": -72,
                             "ZPos": 153,
-                            "TextureArchive": 205,
-                            "TextureRecord": 13,
+                            "TextureArchive": 1210,
+                            "TextureRecord": 19,
                             "FactionID": 0,
                             "Flags": 0
                         },

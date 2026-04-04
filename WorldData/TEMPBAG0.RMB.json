@@ -1,6 +1,6 @@
 {
     "Position": 50000028,
-    "Index": 554,
+    "Index": 5057,
     "Name": "TEMPBAG0.RMB",
     "Type": "Rmb",
     "RmbBlock": {
@@ -18317,8 +18317,8 @@
                             "XPos": 0,
                             "YPos": 0,
                             "ZPos": -112,
-                            "TextureArchive": 97,
-                            "TextureRecord": 3,
+                            "TextureArchive": 1230,
+                            "TextureRecord": 5,
                             "FactionID": 0,
                             "Flags": 17
                         },
@@ -19137,8 +19137,8 @@
                             "XPos": 4,
                             "YPos": 97,
                             "ZPos": 176,
-                            "TextureArchive": 205,
-                            "TextureRecord": 13,
+                            "TextureArchive": 1210,
+                            "TextureRecord": 19,
                             "FactionID": 0,
                             "Flags": 0
                         },

@@ -1,6 +1,6 @@
 {
     "Position": 50000006,
-    "Index": 528,
+    "Index": 5035,
     "Name": "DARKAB00.RMB",
     "Type": "Rmb",
     "RmbBlock": {
@@ -8087,8 +8087,8 @@
                             "XPos": 370,
                             "YPos": -72,
                             "ZPos": 115,
-                            "TextureArchive": 205,
-                            "TextureRecord": 13,
+                            "TextureArchive": 1210,
+                            "TextureRecord": 19,
                             "FactionID": 0,
                             "Flags": 0
                         },
@@ -8097,8 +8097,8 @@
                             "XPos": 370,
                             "YPos": -72,
                             "ZPos": 101,
-                            "TextureArchive": 205,
-                            "TextureRecord": 16,
+                            "TextureArchive": 1210,
+                            "TextureRecord": 20,
                             "FactionID": 0,
                             "Flags": 0
                         },

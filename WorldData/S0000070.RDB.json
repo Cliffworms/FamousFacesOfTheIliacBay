@@ -11,7 +11,9 @@
             "BlockPositions": null,
             "BuildingDataList": null,
             "BlockDataSizes": null,
-            "GroundData": {},
+            "GroundData": {
+
+            },
             "AutoMapData": null,
             "Name": null,
             "OtherNames": null
@@ -1279,7 +1281,7 @@
                                 "TextureRecord": 5,
                                 "Flags": 2,
                                 "Magnitude": 24,
-                                "SoundIndex": 24,
+                                "SoundIndex": 0,
                                 "FactionOrMobileId": 6168,
                                 "NextObjectOffset": 18217,
                                 "Action": 12,
@@ -2933,20 +2935,20 @@
                         }
                     },
                     {
-                        "Position": 70704,
+                        "Position": 33777,
                         "Index": 73,
-                        "XPos": 968,
+                        "XPos": 938,
                         "YPos": -853,
-                        "ZPos": 666,
+                        "ZPos": 664,
                         "Type": "Flat",
                         "Resources": {
                             "FlatResource": {
-                                "Position": 18000,
+                                "Position": 0,
                                 "TextureArchive": 10020,
                                 "TextureRecord": 1,
-                                "Flags": 50,
-                                "Magnitude": 47,
-                                "SoundIndex": 1,
+                                "Flags": 0,
+                                "Magnitude": 0,
+                                "SoundIndex": 0,
                                 "FactionOrMobileId": 304,
                                 "NextObjectOffset": 0,
                                 "Action": 29,

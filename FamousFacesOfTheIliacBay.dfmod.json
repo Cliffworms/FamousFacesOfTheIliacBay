@@ -1,6 +1,6 @@
 {
     "ModTitle": "Famous Faces of the Iliac Bay",
-    "ModVersion": "2.0.3",
+    "ModVersion": "2.0.4",
     "ModAuthor": "Cliffworms",
     "DFUnity_Version": "1.1.1",
     "ModDescription": "Brings back Daggerfall's missing unique NPCs, makes each capital palace unique and makes all palaces more detailed. Also adds the city of Dak'fron.",
@@ -601,7 +601,29 @@
         "Assets/Game/Mods/FamousFacesOfTheIliacBay/WorldData/RESIAL08.RMB-667-building9.json",
         "Assets/Game/Mods/FamousFacesOfTheIliacBay/WorldData/MAGEBA00.RMB-437-building6.json",
         "Assets/Game/Mods/FamousFacesOfTheIliacBay/WorldData/WEAPGL01.RMB-375-building19.json",
-        "Assets/Game/Mods/FamousFacesOfTheIliacBay/FamousFacesOfTheIliacBay.dfmod.json"
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/FamousFacesOfTheIliacBay.dfmod.json",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/WorldData/THIEBL00.RMB.json",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1200_57-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1200_57-0.xml",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/TFAC00I0.RCI_120055-0.PNG",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_10-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_18-0.xml",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_9-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_2-0.xml",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_3-0.xml",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_5-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_3-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_6-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_18-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_2-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_5-0.xml",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_9-0.xml",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_6-0.xml",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_13-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_13-0.xml",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1210_20-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1210_19-0.png",
+        "Assets/Game/Mods/FamousFacesOfTheIliacBay/Textures/1230_10-0.xml"
     ],
     "Dependencies": [
         {
@@ -611,20 +633,21 @@
             "Version": "1.0.0"
         },
         {
-            "Name": "new paintings",
-            "IsOptional": false,
-            "IsPeer": true,
-            "Version": "0.5.0"
-        },
-        {
             "Name": "rmb resource pack",
             "IsOptional": false,
-            "IsPeer": false
+            "IsPeer": false,
+            "Version": "0.3.0"
         },
         {
             "Name": "locations overhauled - thieves guild",
             "IsOptional": true,
             "IsPeer": false
+        },
+        {
+            "Name": "flat replacer",
+            "IsOptional": false,
+            "IsPeer": true,
+            "Version": "0.2.18"
         }
     ]
 }
