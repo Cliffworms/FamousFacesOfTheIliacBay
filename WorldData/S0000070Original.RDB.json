@@ -250,8 +250,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -351,7 +350,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1530,
+                                "YRotation": 517,
                                 "ZRotation": 0,
                                 "ModelIndex": 38,
                                 "TriggerFlag_StartingLock": 0,
@@ -442,8 +441,7 @@
                                 "SoundIndex": 6,
                                 "FactionOrMobileId": 1536,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -464,8 +462,7 @@
                                 "SoundIndex": 6,
                                 "FactionOrMobileId": 1536,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -529,8 +526,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -551,8 +547,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -573,8 +568,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -610,8 +604,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -647,8 +640,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -684,8 +676,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -721,8 +712,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -751,7 +741,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1536,
+                                "YRotation": -3584,
                                 "ZRotation": 0,
                                 "ModelIndex": 1,
                                 "TriggerFlag_StartingLock": 0,
@@ -779,7 +769,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -512,
+                                "YRotation": -2560,
                                 "ZRotation": 0,
                                 "ModelIndex": 12,
                                 "TriggerFlag_StartingLock": 0,
@@ -807,7 +797,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1536,
+                                "YRotation": 512,
                                 "ZRotation": 0,
                                 "ModelIndex": 11,
                                 "TriggerFlag_StartingLock": 0,
@@ -919,7 +909,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1024,
+                                "YRotation": -3072,
                                 "ZRotation": 0,
                                 "ModelIndex": 1,
                                 "TriggerFlag_StartingLock": 0,
@@ -975,7 +965,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1024,
+                                "YRotation": -3072,
                                 "ZRotation": 0,
                                 "ModelIndex": 7,
                                 "TriggerFlag_StartingLock": 0,
@@ -1003,7 +993,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": 0,
+                                "YRotation": -2048,
                                 "ZRotation": 0,
                                 "ModelIndex": 7,
                                 "TriggerFlag_StartingLock": 0,
@@ -1087,7 +1077,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1536,
+                                "YRotation": 512,
                                 "ZRotation": 0,
                                 "ModelIndex": 11,
                                 "TriggerFlag_StartingLock": 0,
@@ -1137,7 +1127,7 @@
                         "Position": 13871,
                         "Index": 38,
                         "XPos": 896,
-                        "YPos": -965,
+                        "YPos": -960,
                         "ZPos": 544,
                         "Type": "Model",
                         "Resources": {
@@ -1182,8 +1172,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1234,8 +1223,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1333,8 +1321,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1348,7 +1335,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1524,
+                                "YRotation": 522,
                                 "ZRotation": 0,
                                 "ModelIndex": 40,
                                 "TriggerFlag_StartingLock": 0,
@@ -1376,7 +1363,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -967,
+                                "YRotation": -966,
                                 "ZRotation": 0,
                                 "ModelIndex": 36,
                                 "TriggerFlag_StartingLock": 0,
@@ -1404,7 +1391,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -500,
+                                "YRotation": -502,
                                 "ZRotation": 0,
                                 "ModelIndex": 36,
                                 "TriggerFlag_StartingLock": 0,
@@ -1432,7 +1419,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1536,
+                                "YRotation": 512,
                                 "ZRotation": 0,
                                 "ModelIndex": 36,
                                 "TriggerFlag_StartingLock": 0,
@@ -1551,8 +1538,7 @@
                                 "SoundIndex": 1,
                                 "FactionOrMobileId": 256,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1573,8 +1559,7 @@
                                 "SoundIndex": 1,
                                 "FactionOrMobileId": 256,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1595,8 +1580,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1610,7 +1594,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -51,
+                                "YRotation": -50,
                                 "ZRotation": 0,
                                 "ModelIndex": 31,
                                 "TriggerFlag_StartingLock": 0,
@@ -1666,7 +1650,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -39,
+                                "YRotation": -42,
                                 "ZRotation": 0,
                                 "ModelIndex": 24,
                                 "TriggerFlag_StartingLock": 0,
@@ -1694,7 +1678,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1126,
+                                "YRotation": -1128,
                                 "ZRotation": 0,
                                 "ModelIndex": 27,
                                 "TriggerFlag_StartingLock": 0,
@@ -1813,8 +1797,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1835,8 +1818,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1857,8 +1839,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1872,7 +1853,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1638,
+                                "YRotation": 408,
                                 "ZRotation": 0,
                                 "ModelIndex": 27,
                                 "TriggerFlag_StartingLock": 0,
@@ -1900,7 +1881,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -523,
+                                "YRotation": -521,
                                 "ZRotation": 0,
                                 "ModelIndex": 26,
                                 "TriggerFlag_StartingLock": 0,
@@ -1935,8 +1916,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -1985,8 +1965,7 @@
                                 "SoundIndex": 1,
                                 "FactionOrMobileId": 303,
                                 "NextObjectOffset": 0,
-                                "Action": 29,
-                                "IsCustomData": false
+                                "Action": 29
                             }
                         }
                     },
@@ -2035,8 +2014,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2072,8 +2050,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2109,8 +2086,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2146,8 +2122,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2183,8 +2158,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2220,8 +2194,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2287,8 +2260,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2309,8 +2281,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2346,8 +2317,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2368,8 +2338,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -2411,7 +2380,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -512,
+                                "YRotation": -2560,
                                 "ZRotation": 0,
                                 "ModelIndex": 13,
                                 "TriggerFlag_StartingLock": 0,
@@ -2629,7 +2598,7 @@
                         "Position": 13919,
                         "Index": 62,
                         "XPos": 1024,
-                        "YPos": -965,
+                        "YPos": -960,
                         "ZPos": 544,
                         "Type": "Model",
                         "Resources": {
@@ -2657,7 +2626,7 @@
                         "Position": 13752,
                         "Index": 63,
                         "XPos": 1408,
-                        "YPos": -965,
+                        "YPos": -960,
                         "ZPos": 544,
                         "Type": "Model",
                         "Resources": {
@@ -2685,7 +2654,7 @@
                         "Position": 13967,
                         "Index": 64,
                         "XPos": 1280,
-                        "YPos": -965,
+                        "YPos": -960,
                         "ZPos": 544,
                         "Type": "Model",
                         "Resources": {
@@ -2713,7 +2682,7 @@
                         "Position": 13823,
                         "Index": 65,
                         "XPos": 1152,
-                        "YPos": -965,
+                        "YPos": -960,
                         "ZPos": 544,
                         "Type": "Model",
                         "Resources": {
@@ -2775,7 +2744,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -512,
+                                "YRotation": 1536,
                                 "ZRotation": 0,
                                 "ModelIndex": 7,
                                 "TriggerFlag_StartingLock": 0,
@@ -2887,7 +2856,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -512,
+                                "YRotation": 1536,
                                 "ZRotation": 0,
                                 "ModelIndex": 17,
                                 "TriggerFlag_StartingLock": 0,
@@ -2915,7 +2884,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": 0,
+                                "YRotation": -2048,
                                 "ZRotation": 0,
                                 "ModelIndex": 1,
                                 "TriggerFlag_StartingLock": 0,
@@ -2930,28 +2899,6 @@
                                     "NextObjectIndex": -1,
                                     "Flags": 0
                                 }
-                            }
-                        }
-                    },
-                    {
-                        "Position": 33777,
-                        "Index": 73,
-                        "XPos": 938,
-                        "YPos": -853,
-                        "ZPos": 664,
-                        "Type": "Flat",
-                        "Resources": {
-                            "FlatResource": {
-                                "Position": 0,
-                                "TextureArchive": 10020,
-                                "TextureRecord": 1,
-                                "Flags": 0,
-                                "Magnitude": 0,
-                                "SoundIndex": 0,
-                                "FactionOrMobileId": 304,
-                                "NextObjectOffset": 0,
-                                "Action": 29,
-                                "IsCustomData": true
                             }
                         }
                     }
@@ -2997,8 +2944,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -3019,8 +2965,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -3041,8 +2986,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -3063,8 +3007,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -3093,7 +3036,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1536,
+                                "YRotation": -3584,
                                 "ZRotation": 0,
                                 "ModelIndex": 7,
                                 "TriggerFlag_StartingLock": 0,
@@ -3121,7 +3064,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": 0,
+                                "YRotation": -2048,
                                 "ZRotation": 0,
                                 "ModelIndex": 7,
                                 "TriggerFlag_StartingLock": 0,
@@ -3233,7 +3176,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": 0,
+                                "YRotation": 2048,
                                 "ZRotation": 0,
                                 "ModelIndex": 2,
                                 "TriggerFlag_StartingLock": 0,
@@ -3255,7 +3198,7 @@
                         "Position": 13562,
                         "Index": 12,
                         "XPos": 800,
-                        "YPos": -922,
+                        "YPos": -896,
                         "ZPos": 1440,
                         "Type": "Model",
                         "Resources": {
@@ -3315,8 +3258,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -3352,8 +3294,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -3389,8 +3330,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": -2,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -3411,8 +3351,7 @@
                                 "SoundIndex": 0,
                                 "FactionOrMobileId": 0,
                                 "NextObjectOffset": 0,
-                                "Action": 0,
-                                "IsCustomData": false
+                                "Action": 0
                             }
                         }
                     },
@@ -3482,7 +3421,7 @@
                         "Resources": {
                             "ModelResource": {
                                 "XRotation": 0,
-                                "YRotation": -1024,
+                                "YRotation": 1024,
                                 "ZRotation": 0,
                                 "ModelIndex": 10,
                                 "TriggerFlag_StartingLock": 0,
@@ -3560,7 +3499,7 @@
                         "Position": 13633,
                         "Index": 12,
                         "XPos": 1536,
-                        "YPos": -922,
+                        "YPos": -896,
                         "ZPos": 1440,
                         "Type": "Model",
                         "Resources": {
@@ -3641,6 +3580,24 @@
                         }
                     }
                 ]
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
+            },
+            {
+                "RdbObjects": null
             },
             {
                 "RdbObjects": null
